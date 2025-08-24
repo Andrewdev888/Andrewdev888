@@ -12,7 +12,12 @@
   💻 Full Stack Developer | ⚡ Apasionado por la tecnología | 🎮 Gamer 
 </p>
 
----
+---  ¡Hola! Soy Andrew A.P. 👋
+
+¡Bienvenido a mi perfil de GitHub! 
+
+He creado un libro digital sobre IA y redes neuronales. Puedes leerlo aquí:
+[IA y sus redes neuronales - Tomo 1](https://andrewdev888.github.io/IA-engineering_by_AndrewPA_1/)
 
 ### 🧠 Sobre mí
 

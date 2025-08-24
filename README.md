@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  💻 Full Stack Developer | ⚡ Apasionado por la tecnología | 🎮 Gamer 
+  IA Engineer Study 💻 Full Stack Developer in process| ⚡ Apasionado por la tecnología | 🎮 Gamer 
 </p>
 
 ---  ¡Hola! Soy Andrew A.P. 👋
@@ -21,7 +21,7 @@ He creado un libro digital sobre IA y redes neuronales. Puedes leerlo aquí:
 
 ### 🧠 Sobre mí
 
-- 👨‍💻 Me especializo en el desarrollo **Full Stack**
+- 👨‍💻 Estudiante de Ing. en IA y Dev en desarrollo **Full Stack** 
 - 🔧 Me gusta construir interfaces limpias y funcionales
 - 🌱 Actualmente aprendiendo más sobre **DevOps y despliegues en la nube**
 

@@ -1,4 +1,4 @@
-## Hi there 👋 aqui un modelo 3d de redes neuronales
+
 <!-- Fondo menta claro y tipografía pixel art -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=99f6e4&height=150&section=header&text=👾%20Hola%20soy%20AndrewDev%20👾&fontSize=30&fontColor=222222&fontAlign=50&fontAlignY=55" />

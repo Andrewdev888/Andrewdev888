@@ -13,8 +13,8 @@
 
 ```javascript
 const developer = {
-    nombre: "Tu Nombre",
-    ubicación: "Tu Ciudad, País",
+    nombre: "Axyom",
+    ubicación: "Chile",
     filosofía: "Eterno Estudiante 📚",
     pasiones: ["Diseño Web", "Desarrollo Full Stack", "Ciberseguridad", "Hacking Ético"],
     estado_actual: "Creando soluciones seguras y escalables",
